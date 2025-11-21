@@ -1,0 +1,2 @@
+imgai\Scripts\Activate
+streamlit run app.py
